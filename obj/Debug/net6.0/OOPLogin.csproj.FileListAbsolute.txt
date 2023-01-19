@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\OOPLogin.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\OOPLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\OOPLogin.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\OOPLogin.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\OOPLogin.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\bin\Debug\net6.0\OOPLogin.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\bin\Debug\net6.0\OOPLogin.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\bin\Debug\net6.0\OOPLogin.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\bin\Debug\net6.0\OOPLogin.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\bin\Debug\net6.0\OOPLogin.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\OOPLogin.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\refint\OOPLogin.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\OOPLogin.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\OOPLogin.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\OOPLogin\obj\Debug\net6.0\ref\OOPLogin.dll
