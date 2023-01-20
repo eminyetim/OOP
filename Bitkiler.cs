@@ -22,4 +22,11 @@ public class TohumsuzBitkiler : Bitki
     {
         System.Console.WriteLine("Sporla cogalma basarili .");
     }
+
+    
+    public override void UyaranlaraTepki()
+    {
+        base.UyaranlaraTepki();
+        System.Console.WriteLine("Bitkiler Güneşe Yönelinir.");
+    }
 }

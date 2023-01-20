@@ -22,4 +22,9 @@ public class Ordek:Hayvan
     {
         System.Console.WriteLine("Yüzme islemi basarili");
     }
+    public override void UyaranlaraTepki()
+    {
+        base.UyaranlaraTepki();
+        System.Console.WriteLine("Canlilar etkiye tepki verir.");
+    }
 }

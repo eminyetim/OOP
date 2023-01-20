@@ -1,7 +1,7 @@
 using System;
 
 
-public class Canli
+public /*sield*/ class Canli // sield anahtar kelimesi miras alınmayı engeller.
 {
     public void beslenme()
     {
@@ -14,5 +14,10 @@ public class Canli
     public void Bosaltim()
     {
         System.Console.WriteLine("Canlilar Bosaltim Yapar.");
+    }
+
+    public virtual void UyaranlaraTepki()
+    {
+        System.Console.WriteLine("Canlilar uyarilara tepki verir.");
     }
 }
